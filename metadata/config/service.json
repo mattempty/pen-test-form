@@ -4,5 +4,6 @@
   "_type": "config.service",
   "attachUserSubmission": true,
   "emailInputNameUser": "form_user_email",
-  "name": "Pentest Form"
+  "name": "Pentest Form",
+  "serviceEmailAddress": "matthew@tei.me.uk"
 }
