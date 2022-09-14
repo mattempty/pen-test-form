@@ -5,7 +5,7 @@
   "attachUserSubmission": false,
   "emailInputNameUser": "form_user_email",
   "emailSubjectUser": "Pentest Form",
-  "emailTemplateUser": "Hello {text_name}\r\n\r\nText field: {text_field}\r\nAutocomplete field: {autocomplete_field}\r\nPostcode Field: {postcode_field}\r\nSelect a colour: {select_a_colour}\r\nCheckbox red: {checkbox_red}\r\nCheckbox blue:{check_blue}\r\nCheckbox green:{check_green}\r\n\r\nEmail is sent to: {form_user_email}\r\n",
+  "emailTemplateUser": "Hello {text_name}\r\n\r\nText field: <b>{text_field}</b>\r\nPostcode Field: {postcode_field}\r\n<hr />\r\nSelect a colour: {select_a_colour}\r\nCheckbox red: {checkbox_red}\r\nCheckbox blue: {check_blue}\r\nCheckbox green: {check_green}\r\n\r\nEmail is sent to: {form_user_email}\r\n<br />\r\n<br />\r\n<img alt=\"test image in an email\" src=\"https://static.wikia.nocookie.net/starwars/images/c/cc/Star-wars-logo-new-tall.jpg\">\r\n",
   "name": "Pentest Form",
   "serviceEmailAddress": "matthew.tei@justice.gov.uk"
 }
