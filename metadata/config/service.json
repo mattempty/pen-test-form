@@ -5,7 +5,7 @@
   "attachUserSubmission": false,
   "emailInputNameUser": "form_user_email",
   "emailSubjectUser": "Pentest Form",
-  "emailTemplateUser": "Hello {{text_name}}\r\n\r\nText field: {{text_field}}\r\nAutocomplete field: {{autocomplete_field}}\r\nPostcode Field: {{postcode_field}}\r\nSelect a colour: {{select_a_colour}}\r\nCheckbox red: {{checkbox_red}}\r\nCheckbox blue:{{check_blue}}\r\nCheckbox green:{{check_green}}\r\n\r\nEmail is sent to: {{form_user_email}}\r\n",
+  "emailTemplateUser": "Hello {text_name}\r\n\r\nText field: {text_field}\r\nAutocomplete field: {autocomplete_field}\r\nPostcode Field: {postcode_field}\r\nSelect a colour: {select_a_colour}\r\nCheckbox red: {checkbox_red}\r\nCheckbox blue:{check_blue}\r\nCheckbox green:{check_green}\r\n\r\nEmail is sent to: {form_user_email}\r\n",
   "name": "Pentest Form",
   "serviceEmailAddress": "matthew.tei@justice.gov.uk"
 }
